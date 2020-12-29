@@ -1,7 +1,7 @@
 ## Object Detection using TFOD:
 
 1. In this project i had trained the model for real time face mask detection using Tensorflow Object Detection(TFOD)
-2. I had used SSDlite model as it offered me with the best accuracy and descent FPS as you can see in testing.
+2. SSDlite model as it offered me with the best accuracy and descent FPS as you can see in testing.
 3. I had trained the model for 150000 steps to obtain the best accuracy in google colab and later make use of frozen inference graph for the prediction.
 
 ## Dataset
