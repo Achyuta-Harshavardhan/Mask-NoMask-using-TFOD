@@ -1,4 +1,4 @@
-## Object Detection using TFOD:
+# Object Detection using TFOD:
 
 1. In this project i had trained the model for real time face mask detection using Tensorflow Object Detection(TFOD)
 2. SSDlite model as it offered me with the best accuracy and descent FPS as you can see in testing.
