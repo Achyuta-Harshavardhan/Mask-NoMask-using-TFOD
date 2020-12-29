@@ -1,3 +1,10 @@
+Object Detection using SSDlite model (TFOD)
+
+
+
+
+
+
 ## Dataset
 https://www.kaggle.com/andrewmvd/face-mask-detection
 
